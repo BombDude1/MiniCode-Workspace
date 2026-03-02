@@ -1,0 +1,2 @@
+MiniCode Workspace is a small program designed to run code in the conceptual programming language of it: the MiniScript, along with it, there is multiple other features available on it. MiniScript is designed to be easier than python.
+listing the features, for your own comfort, there is a large variety of themes and fonts that you can use to vibe code. along with AIs and a MAnual to help you havhe a better understandment about the program MiniScript.
